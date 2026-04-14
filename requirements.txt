@@ -1,0 +1,15 @@
+flask
+flask-cors
+flask-sqlalchemy
+requests
+waitress
+supabase
+tensorflow
+numpy
+Pillow
+dotenv
+geopy
+werkzeug
+gunicorn
+gevent
+
